@@ -2,6 +2,9 @@
 
 This is a web application that uses YOLOv8 for real-time object detection. Users can upload images and get bounding boxes with confidence scores for detected objects.
 
+## Screenshot
+![YOLOv8 Object Detection Demo](screenshots/Screenshot%202025-03-07%20at%202.21.29%20PM.png)
+
 ## Features
 
 - Image upload interface
